@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T10:02:06.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FxwbJqa-d_DuG_23NwJK" version="21.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-13T10:16:40.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ha3Nh16uJah-wgRpLXAl" version="21.3.0" type="github" pages="4">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1235" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xLsuHhwH9LhR4QcPsfke" name="Main Feed">
-    <mxGraphModel dx="724" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,7 +334,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EMtuQso8JHbJMKTlTsIU-7" value="피드에 게시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="ktx7WozTVfInUkNxisi4-14">
-          <mxGeometry x="-0.0343" relative="1" as="geometry">
+          <mxGeometry x="-0.0343" y="-20" relative="1" as="geometry">
             <mxPoint x="610" y="440" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
@@ -504,14 +504,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bxCxPOe6Yn9bumqt503H" name="Profile">
-    <mxGraphModel dx="875" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="613" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oqaOS2bLrcT7tOUp0WnT-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="110" width="22" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="oqaOS2bLrcT7tOUp0WnT-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oqaOS2bLrcT7tOUp0WnT-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="hywHnfRLlk0kPyoRCqPR-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="1400" as="sourcePoint" />
             <mxPoint x="40" y="170" as="targetPoint" />
@@ -544,7 +544,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oqaOS2bLrcT7tOUp0WnT-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="oqaOS2bLrcT7tOUp0WnT-11">
+        <mxCell id="oqaOS2bLrcT7tOUp0WnT-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="oqaOS2bLrcT7tOUp0WnT-11" source="hywHnfRLlk0kPyoRCqPR-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1400" as="sourcePoint" />
             <mxPoint x="200" y="170" as="targetPoint" />
@@ -598,7 +598,7 @@
         </mxCell>
         <mxCell id="f4BO9nTkKYZItzvbiStQ-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="1390" as="sourcePoint" />
+            <mxPoint x="360" y="1130" as="sourcePoint" />
             <mxPoint x="360" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -806,7 +806,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dDnLlEUrkhuTLc3Zx-XH-8" value="피드에 게시" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="dDnLlEUrkhuTLc3Zx-XH-6">
-          <mxGeometry x="-0.0343" relative="1" as="geometry">
+          <mxGeometry x="-0.0408" y="-20" relative="1" as="geometry">
             <mxPoint x="520.5" y="890" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
@@ -821,6 +821,127 @@
             <mxPoint x="520" y="1380" as="sourcePoint" />
             <mxPoint x="520" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-1" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 9px;&quot;&gt;Comment&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Actor의 Profile에서 할 수 있는 항목&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="236" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-18" value="프로필 조회" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Bcv8FdUKrYxMTX886Yuz-20" target="Bcv8FdUKrYxMTX886Yuz-19">
+          <mxGeometry x="-0.0067" relative="1" as="geometry">
+            <mxPoint x="39.5" y="940" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="119.5" y="950" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="194.5" y="940" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="35.5" y="940" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-21" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0331" y="20" relative="1" as="geometry">
+            <mxPoint x="45.5" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.5" y="1040" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="194.5" y="1040" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="940" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-23" value="프로필 페이지 반환" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="1017" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-24" value="팔로우 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0067" relative="1" as="geometry">
+            <mxPoint x="45.5" y="1079" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="119.5" y="1079" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="194.5" y="1079" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bcv8FdUKrYxMTX886Yuz-25" value="DB에 변경 사항 적용" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0323" relative="1" as="geometry">
+            <mxPoint x="204.5" y="1079" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="289.5" y="1079" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="354.5" y="1079" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-1" value="DB에 데이터 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0323" relative="1" as="geometry">
+            <mxPoint x="203.5" y="1002.58" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="288.5" y="1002.58" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="354" y="1002.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="200" y="958" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-3" value="팔로우 여부 확인" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="hywHnfRLlk0kPyoRCqPR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="948" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="240" y="948" />
+              <mxPoint x="240" y="978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-6" value="데이터 반환" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0331" y="20" relative="1" as="geometry">
+            <mxPoint x="204" y="1017" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="1017" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="353" y="1017" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="hywHnfRLlk0kPyoRCqPR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1400" as="sourcePoint" />
+            <mxPoint x="40" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="35" y="1070" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="hywHnfRLlk0kPyoRCqPR-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1400" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="194" y="1070" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1390" as="sourcePoint" />
+            <mxPoint x="360" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hywHnfRLlk0kPyoRCqPR-14" value="알림 전송" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="hywHnfRLlk0kPyoRCqPR-9">
+          <mxGeometry x="-0.0408" y="-20" relative="1" as="geometry">
+            <mxPoint x="520" y="1090" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+            <mxPoint x="365.5" y="1090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pup81XvD5TuSgAdY2PzZ-1" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 9px;&quot;&gt;Comment&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;Actor가 다른 사용자의 Profile에서 할 수 있는 항목&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="940" width="236" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
