@@ -15,10 +15,10 @@ public class CommentLike {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long comment_like_seq;
+    private Long reply_like_seq;
     @ManyToOne
-    @JoinColumn(name = "comment_seq", referencedColumnName = "comment_seq")
-    private Comment comment_seq;
+    @JoinColumn(name = "reply_seq", referencedColumnName = "reply_seq")
+    private Reply reply_seq;
     @ManyToOne
     @JoinColumn(name = "user_seq", referencedColumnName = "user_seq")
     private Users user_seq;
