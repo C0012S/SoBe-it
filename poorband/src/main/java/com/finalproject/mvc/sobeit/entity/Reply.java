@@ -12,10 +12,10 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 @Builder
 @ToString
-public class Comment {
+public class Reply {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long comment_seq;
+    private Long reply_seq;
     @ManyToOne
     @JoinColumn(name = "user_seq", referencedColumnName = "user_seq")
     private Users user_seq;
@@ -23,16 +23,16 @@ public class Comment {
     @JoinColumn(name = "article_seq", referencedColumnName = "article_seq")
     private Article article_seq;
     @Column(nullable = false)
-    private String comment_text;
+    private String reply_text;
 
     @Column(nullable = false)
-    private Long parent_comment_seq;
+    private Long parent_reply_seq;
     @Column(nullable = false)
     private LocalDateTime written_date;
 
     @PrePersist
     public void prePersist(){
-        this.parent_comment_seq = this.parent_comment_seq == null ? 0L : this.parent_comment_seq;
+        this.parent_reply_seq = this.parent_reply_seq == null ? 0L : this.parent_reply_seq;
     }
 
 }

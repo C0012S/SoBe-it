@@ -19,7 +19,7 @@ public class Following {
     private String id;
 
     @ManyToOne
-    @JoinColumn(name = "following_user_seq", referencedColumnName = "user_seq")
+    @JoinColumn(name = "user_seq", referencedColumnName = "user_seq")
     private Users user_seq;
 
     @Column(nullable = false)
